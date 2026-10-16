@@ -60,6 +60,6 @@ pip install requests beautifulsoup4 pandas matplotlib
 
 ## Files
 
-* `Bookstore_Scraper.ipynb`: the scraper and analysis
+* `Noor_Bookstore_Scraper.ipynb`: the scraper and analysis
 * `competitor_books.csv`: the dataset produced by the scraper
 * `rating_counts.png`: rating distribution chart
